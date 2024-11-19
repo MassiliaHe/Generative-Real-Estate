@@ -1,0 +1,11 @@
+plotly
+tabulate
+zipfile
+pandas
+numpy
+seaborn
+xgboost
+category_encoders
+scikit-learn
+matplotlib
+requests
