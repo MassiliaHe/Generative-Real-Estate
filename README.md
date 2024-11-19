@@ -1,4 +1,4 @@
-```markdown
+
 # Real Estate Market Insights
 
 ## Description
@@ -45,4 +45,3 @@ This project aims to analyze the French real estate market using advanced data a
 
 ## Author
 Massilia Helifi
-```
